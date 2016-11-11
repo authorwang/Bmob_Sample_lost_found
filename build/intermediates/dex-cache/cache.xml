@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Bmob_Sample_lost_found\app\libs\bmob_v3.1.1beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b70cca78172af77118481a3f097b542e55e55a6">
+        <dex dex="D:\Bmob_Sample_lost_found\app\build\intermediates\transforms\dex\debug\folders\1000\2\bmob_v3.1.1beta_be5a8bdacdc63002953aada00cccc5659b9ee6ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bmob_Sample_lost_found\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5955c4560110924ebc1608a9b48d4b0033a1d057">
+        <dex dex="D:\Bmob_Sample_lost_found\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab25528a455d1c7385fad374f1de1e16b0659cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bmob_Sample_lost_found\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9790159b2abd4abfe72286699a314823c77caa1">
+        <dex dex="D:\Bmob_Sample_lost_found\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_89a87dcf8f8509445d2efe11ba09c30b15785ebd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDKFolder\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Bmob_Sample_lost_found\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_8186abfcdd9dd9ce26e1c1b53cfed9a5b8cd1538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bmob_Sample_lost_found\app\libs\picasso-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="D:\Bmob_Sample_lost_found\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.2.0_d2547070de62754bdeb0089ebfdce9719860ba03\classes.dex" />
+    </item>
+
+</items>

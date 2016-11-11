@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin_right.xml",
+        "source": "D:\\Bmob_Sample_lost_found\\app\\src\\main\\res\\anim\\zoomin_right.xml"
+    },
+    {
+        "merged": "D:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout_right.xml",
+        "source": "D:\\Bmob_Sample_lost_found\\app\\src\\main\\res\\anim\\zoomout_right.xml"
+    },
+    {
+        "merged": "D:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_in.xml",
+        "source": "D:\\Bmob_Sample_lost_found\\app\\src\\main\\res\\anim\\scale_top_in.xml"
+    },
+    {
+        "merged": "D:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_out.xml",
+        "source": "D:\\Bmob_Sample_lost_found\\app\\src\\main\\res\\anim\\scale_top_out.xml"
+    }
+]

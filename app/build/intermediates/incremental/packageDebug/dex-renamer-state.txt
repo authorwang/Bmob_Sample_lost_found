@@ -1,0 +1,7 @@
+#Fri Nov 11 16:25:04 CST 2016
+base.0=D\:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ab25528a455d1c7385fad374f1de1e16b0659cac
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_89a87dcf8f8509445d2efe11ba09c30b15785ebd\\classes.dex
+base.1=D\:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_89a87dcf8f8509445d2efe11ba09c30b15785ebd
+file.0=D\:\\Bmob_Sample_lost_found\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ab25528a455d1c7385fad374f1de1e16b0659cac\\classes.dex
